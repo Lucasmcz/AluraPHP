@@ -14,7 +14,7 @@ echo "Vc so pode entrar se tiver apartir de 18 anos" .PHP_EOL;
   else
   {
     echo "Vc tem $idade anos" .PHP_EOL;
-    echo "Se foda";
+    echo "Não pode entrar";
   }
 
 echo PHP_EOL;
